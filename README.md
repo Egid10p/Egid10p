@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on improving and helping the world
-- 📫 How to reach me ...
+- 📫 How to reach me egidiocontacto11@gmail.com
 
 <!---
 Egid10p/Egid10p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
